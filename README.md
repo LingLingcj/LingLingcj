@@ -1,12 +1,13 @@
 ### Hi there 👋
-
+  我是Ling，[CQU](https://www.cqu.edu.cn/)的大一新生。目前啥也不会 :<
+  Anyway,共同进步吧
 <!--
 **LingLingcj/LingLingcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on CQU（2023-2027）
+- 🌱 I’m currently learning BME (just want, I haven't choose my major)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
