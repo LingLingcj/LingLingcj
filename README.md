@@ -1,6 +1,6 @@
 ### Hi there 👋
   我是Ling，[CQU](https://www.cqu.edu.cn/)的大一新生。目前啥也不会 :<
-  Anyway,共同进步吧
+  <br> Anyway,共同进步吧
 <!--
 **LingLingcj/LingLingcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
