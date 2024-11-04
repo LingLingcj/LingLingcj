@@ -2,7 +2,7 @@
   我是Ling，来自[CQU](https://www.cqu.edu.cn/)
   <br> 
 <br>没什么大不了
-———2024.5.04
+———2024.11.4
 <!--
 **LingLingcj/LingLingcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
