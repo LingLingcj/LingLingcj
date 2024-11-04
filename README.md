@@ -1,7 +1,7 @@
 ### Hi there 👋
-  我是Ling，[CQU](https://www.cqu.edu.cn/)的大二学生。目前啥也不会 :<
-  <br> Anyway,共同进步吧
-<br>To 不知道多少年后的自己，...
+  我是Ling，来自[CQU](https://www.cqu.edu.cn/)
+  <br> 
+<br>没什么大不了
 ———2024.5.04
 <!--
 **LingLingcj/LingLingcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
